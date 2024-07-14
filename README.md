@@ -32,7 +32,9 @@
 ### :hammer_and_wrench: Others :
 <div>
   <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/708405/images/4005243/django_rest_500x500.png" title="Django_REST_framework" alt="Django_REST_framework" width="50" height="50"/>&nbsp;
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="100" height="80"/>&nbsp;
+  <img src="https://newreleases.io/icon/github/pydantic" title="Pydantic" alt="Pydantic" width="50" height="50"/>&nbsp;
+  <img src="https://60.img.avito.st/image/1/1.6HpTfLa6RJNl1YaWD1O0J5HfQpfnX0xR4t9Am-_XRg.5V60yI-bxYlC3EPHEJpAC5GD77Le_yTCzuciVAtVgcU" title="Aiogram" alt="Aiogram" width="50" height="50"/>&nbsp;
    <br>
    <br>
 </div>
@@ -52,6 +54,11 @@
 
 </div>
 
+<div>
+  <img src="https://temofeev.ru/upload/iblock/930/930f18cfdb29f9ce3e3fc52f3da6e67e.png" title="Keycloak" alt="Keycloak" width="100" height="100"/>&nbsp;
+   <br>
+
+</div>
 ### Databases :
 
 <div>

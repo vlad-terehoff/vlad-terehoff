@@ -7,9 +7,9 @@
 </div>
 
 <div id="body">
-  <h2>
+  <h1>
   Technology stack
- </h2>
+ </h1>
   <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" align=right width="500"/>
 </div>
 

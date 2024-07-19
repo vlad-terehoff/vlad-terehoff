@@ -50,6 +50,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/1b8be277-334e-4ea2-bfa3-2ee4d44510f8" title="Nginx" alt="Nginx" width="70" height="70"/>&nbsp;
+  <img src="https://sun9-42.userapi.com/PhRgi64F_O0dDpeh6HK9U4y6YYz2HsCKe2X9kQ/TC0Tel0fVVs.jpg" title="Nginx_Proxy_Manager" alt="Nginx_Proxy_Manager" width="60" height="60"/>&nbsp;
    <br>
 
 </div>
